@@ -1,6 +1,7 @@
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="1000">
-<br><br>
-# 💫 About Me:<br/>
+
+# 💫 About Me:
+<br/>
 👋 Howdy, Code Conjurer! 🚀✨<br><br>I'm Amit Lulla, the tech wizard who turns "404 Not Found" into "200 OK" with a sprinkle of Python and a dash of JavaScript. 🐍🤖<br><br>🧙‍♂️ When I'm not wrestling with code, I'm the maestro of Generative AI, the guru of Prompt Engineering, and the sheriff of staying up-to-date with more AI models than I have coffee cups. ☕🤯<br><br>💻 Armed with my trusty keyboard and an endless supply of cat gifs, I navigate the GitHub jungle, swinging between repositories like Tarzan in the digital vines. 🌐🐒<br><br>📚 Docs are my love language. I speak fluent README and can decipher release papers faster than you can say "bug-free." 📖💬<br><br>Let's make code fun again! Join me on this crazy rollercoaster where every commit is a high-five to the coding gods, and every error message is just a computer's way of telling a joke (albeit a bad one). 🎢😂<br><br>Ready for a laugh and a code marathon? Buckle up, my friend! 🏁💻 Let's turn "Hello World" into "Hola Universe" together! 🚀🌌
 
 
